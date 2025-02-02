@@ -24,5 +24,5 @@ Hey Guys, this is Me.<br>.<br>.<br>.<br>.<br>.<br>Congrats-You found me on GitHu
 ```Took Part in Hackroberfest for the first time in 2k24-was a great Experience```
 [![An image of @th3c0d3mast3r's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/th3c0d3mast3r)](https://holopin.io/@th3c0d3mast3r)
 
-[![](https://visitcount.itsvg.in/api?id=Th3C0d3Mast3r&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Th3C0d3Mast3r&icon=0&color=0)](https://visitcount.itsvg.in)
 
