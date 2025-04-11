@@ -14,7 +14,7 @@ Hey Guys, this is Me.<br>.<br>.<br>.<br>.<br>.<br>Congrats-You found me on GitHu
 ---
 
 # 📊 DSA:
-![](https://leetcode-badge-showcase.vercel.app/api?username=unofficialme&theme=black&border=no-border&animated=true)  ![](https://leetcard.jacoblin.cool/unofficialme?ext=heatmap)
+![](https://leetcode-badge-showcase.vercel.app/api?username=unofficialme&theme=black&border=no-border&animated=true)  ![LeetCode Stats](https://leetcard.jacoblin.cool/unofficialme?theme=dark&font=Courier%20Prime&ext=heatmap)
 
 ![CodeWars Badge](https://www.codewars.com/users/unofficialMe/badges/large)
 
