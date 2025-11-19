@@ -1,5 +1,9 @@
 # ☢️ABOUT:
-Hey Guys, this is Me.<br>.<br>.<br>.<br>.<br>.<br>Congrats-You found me on GitHub.<br>Your Side-Quest has come to an end.
+Hey Guys, this is Me.<br><br>
+
+![my image](./images/image1.png)
+
+Congrats-You found me on GitHub.<br>Your Side-Quest has come to an end.
 
 
 # 💻 Tech Stack:
@@ -13,7 +17,9 @@ Hey Guys, this is Me.<br>.<br>.<br>.<br>.<br>.<br>Congrats-You found me on GitHu
 ---
 
 # 📊 DSA:
-![](https://leetcode-badge-showcase.vercel.app/api?username=unofficialme&theme=black&border=no-border&animated=true)  ![LeetCode Stats](https://leetcard.jacoblin.cool/unofficialme?theme=dark&font=Courier%20Prime&ext=heatmap)
+![](https://leetcode-badge-showcase.vercel.app/api?username=unofficialme&theme=black&border=no-border&animated=true)  
+
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/unofficialme?theme=dark&font=Courier%20Prime&ext=heatmap) -->
 
 ![CodeWars Badge](https://www.codewars.com/users/unofficialMe/badges/large)
 
