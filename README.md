@@ -1,10 +1,21 @@
-# ☢️ABOUT:
-Hey Guys, this is Me- Devesh A.<br>.<br>.<br>.<br>.<br>
 
-Congrats-You found me on GitHub.<br>Your Side-Quest has come to an end.
+<h1 align="center">👋🏻 Its Me - Th3C0d3Mast3r</h1>
+<h3 align="center"></h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Programmer;Building+Stuff;Core+%7C+DevOps+%7C+Web+Dev;Exploring+Tech;Why+Still+Waiting?;MAXIMUM+EFFORT" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB2eDM3YmU5eHZpdWpnOWJkMmE4dDMzMGFiZjQyMHFsdDQxaGgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gh620EMUy2usC9cfjb/giphy.gif" alt="Me">
+</p>
 
 
-# 💻:
+<h3 align="center">
+  Congrats-You found me on GitHub. <span color="red">Your Side-Quest has come to an end.</span>
+</h3>
+
+# 💻Things I know-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,12 +46,9 @@ Congrats-You found me on GitHub.<br>Your Side-Quest has come to an end.
 
 
 
-# 📊 GitHub Stats:
+# 📊 Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Th3C0d3Mast3r&theme=transparent&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&fire=00EB7D)](https://git.io/streak-stats)
-![Th3C0d3Mast3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3C0d3Mast3r&theme=gotham&show_icons=true)
-
-<!-- # 📊 DSA: -->
-<!-- ![](https://leetcode-badge-showcase.vercel.app/api?username=unofficialme&theme=black&border=no-border&animated=true)  -->
+![](https://leetcode-badge-showcase.vercel.app/api?username=unofficialme&theme=black&border=no-border&animated=true)
 
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/unofficialme?theme=dark&font=Courier%20Prime&ext=heatmap) -->
 
@@ -52,7 +60,7 @@ Congrats-You found me on GitHub.<br>Your Side-Quest has come to an end.
 
 
 ## 🌐 Socials
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/yourusername)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5gksq5griwfagbzr0dj1ekent&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsdeveshacharya)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/isitd3v3sh)
