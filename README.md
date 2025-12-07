@@ -64,3 +64,8 @@
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsdeveshacharya)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/isitd3v3sh)
+
+---
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Th3C0d3Mast3r&style=for-the-badge&color=343434"/>
+</p>
